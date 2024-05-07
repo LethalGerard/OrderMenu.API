@@ -1,4 +1,6 @@
-﻿{
+﻿"All drinks cost 25 sek"
+
+{
     "drinks": [
         {
             "strDrink": "Black & Tan",
